@@ -19,10 +19,51 @@
 .img-1{
     width: 352px;
     height: 212px;
-    float: left;
     margin-top: 45px;
 }
-.img-2{
-    margin-left: 20px;
-    margin-top: 3px;
+.text-w{
+    background-color: #F8F8F8;
+    width: 352px;
+    height: 148px;
+    margin-top: 10px;
+}
+.clear{
+clear: both;
+}
+.wraper-p{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin-left: 120px;
+    margin-top: 25px;
+    color: #5863F8;
+   
+}
+.wraper-p-1{
+    color: #000000;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.wraper-p-2{
+  font-size: 14px;
+  width: 260px;
+  height: 42px;
+  font-family: 'Poppins', sans-serif;
+  color: #B1B1B1;
+  margin-left: 70px;
+ margin-top: 20px;
+ width: 260px;
+
+}
+.wraper-3{
+ font-size: 14px;
+  width: 260px;
+  height: 42px;
+  font-family: 'Poppins', sans-serif;
+  color: #B1B1B1;
+  margin-left: 55px;
+  loat: left;
+
 }
